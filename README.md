@@ -39,8 +39,8 @@ code-review-deepseek/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/code-review-deepseek.git
-cd code-review-deepseek
+git clone https://github.com/WisteriaM7/CODE-REVIEW-ASSISTANT.git
+cd code-review-assisstant
 ```
 
 ### 2. Create and Activate a Virtual Environment
